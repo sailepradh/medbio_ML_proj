@@ -1,0 +1,1 @@
+## This folder contains the description of raw data that has been used for the project.
