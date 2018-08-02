@@ -1,5 +1,8 @@
 # Ignore these directories:
 data/
+notebook/images/
+notebook/datasets/
+
 
 #Ignore these files
 *.tmp
